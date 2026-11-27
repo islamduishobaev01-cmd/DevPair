@@ -10,6 +10,7 @@ class Calculator:
         """Multiply two numbers."""
         return a * b
 
+    
     def divide(self, a, b):
         """Divide two numbers safely."""
         if b == 0:
